@@ -40,11 +40,10 @@ Flexbox is used to arrange navbar elements and hero content.
 
 ## Project Structure
 
-Task7/
-│
-├── index.html
-├── style.css
-└── README.md
+Task7
+ index.html
+ style.css
+ README.md
 
 ## How to Run the Project
 1. Download or extract the project folder.
